@@ -1,7 +1,7 @@
 # Analog PWM LED Controller
 A hardware-defined Pulse Width Modulation (PWM) generator designed for flicker-free LED dimming without a microcontroller.
 
-## 📺 Simulation & Hardware Demo
+## Project Demo
 [![Watch the Demo](https://img.youtube.com/vi/0v9D-uy3l6E/0.jpg)](https://www.youtube.com/watch?v=0v9D-uy3l6E)
 
 ## Project Overview
